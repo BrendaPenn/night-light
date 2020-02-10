@@ -10,4 +10,5 @@ Uses a force senstive resistor to change the color of the LEDs.
 
 References
 For the photocell resistor, referenced: https://learn.adafruit.com/photocells and https://learn.adafruit.com/photocells/arduino-code
+
 For the force sensitive resistor, referenced: https://learn.adafruit.com/force-sensitive-resistor-fsr/using-an-fsr
